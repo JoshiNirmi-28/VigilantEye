@@ -1,2 +1,2 @@
-# Secure=Watch
+# Secure-Watch
 Educational SIEM with Automated Threat Detection
